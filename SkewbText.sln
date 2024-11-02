@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SkewbText", "SkewbText.vcxproj", "{9E82A5E2-D478-4E2E-94D9-02AC260A5451}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E82A5E2-D478-4E2E-94D9-02AC260A5451}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9E82A5E2-D478-4E2E-94D9-02AC260A5451}.Debug|Win32.Build.0 = Debug|Win32
+		{9E82A5E2-D478-4E2E-94D9-02AC260A5451}.Release|Win32.ActiveCfg = Release|Win32
+		{9E82A5E2-D478-4E2E-94D9-02AC260A5451}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F060802-6918-424C-92DA-C62399FE0A00}
+	EndGlobalSection
+EndGlobal
